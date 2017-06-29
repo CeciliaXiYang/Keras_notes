@@ -76,7 +76,7 @@ References:
 
 [LSTM many to many mapping problem](https://github.com/fchollet/keras/issues/2403)
 
-** A very detailed explaination:** [Keras recurrent tutorial](https://github.com/Vict0rSch/deep_learning/tree/master/keras/recurrent)
+** A very detailed explaination**: [Keras recurrent tutorial](https://github.com/Vict0rSch/deep_learning/tree/master/keras/recurrent)
 
 ## Motivation of using batch_size?
 
