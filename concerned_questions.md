@@ -120,3 +120,8 @@ If argument **stateful=True**, the last state for each sample at index **i** in 
 Reference:
 
 [**Brownlee Bolg**: Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+
+## Check LSTM modeling performance
+
+Reference:
+https://machinelearningmastery.com/diagnose-overfitting-underfitting-lstm-models/
