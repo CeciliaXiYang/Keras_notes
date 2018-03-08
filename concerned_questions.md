@@ -123,5 +123,7 @@ Reference:
 
 ## Check LSTM modeling performance
 
+(overfitting, underfitting, etc.)
+
 Reference:
 https://machinelearningmastery.com/diagnose-overfitting-underfitting-lstm-models/
